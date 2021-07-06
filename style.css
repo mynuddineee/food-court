@@ -96,8 +96,8 @@ section{
     padding-left: 10px;
     padding-right: 5px;
     padding-top:10px;
-    padding-bottom: 250px;
-    box-shadow: 30px 30px 20px gray;
+    padding-bottom: 220px;
+    box-shadow: 30px 30px 30px gray;
     margin-left: 5%;
     margin-right: 10%;
     border-radius: 10px;
@@ -115,6 +115,29 @@ footer span{
 footer p{
     font-size: 10px;
 }
+
+ul{
+    width: 100%;
+    background-image: linear-gradient(salmon,orange);
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
     
+}
+li{
+    padding-left: 80px;
+    padding-right: 100px ;
+    display: inline;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: right;
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+
     
 
