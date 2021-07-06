@@ -49,8 +49,7 @@ section{
 
 .background-banner{
     margin-top: 5%;
-    margin-left: 0px;
-    margin-right: 0px;
+    padding-bottom: 5%;
     display: flex;
     background-image: url(images/frame.png);
     background-repeat: no-repeat;
@@ -58,7 +57,7 @@ section{
     
 }
 #about-me{
-    padding-top: 8%;
+    padding-top: 5%;
     padding-right: 15%;
     
 }
@@ -96,7 +95,7 @@ section{
     padding-left: 10px;
     padding-right: 5px;
     padding-top:10px;
-    padding-bottom: 220px;
+    padding-bottom: 230px;
     box-shadow: 30px 30px 30px gray;
     margin-left: 5%;
     margin-right: 10%;
@@ -115,18 +114,28 @@ footer span{
 footer p{
     font-size: 10px;
 }
-
-ul{
-    width: 100%;
+.nav-bar{
+    width: 90%;
     background-image: linear-gradient(salmon,orange);
     margin: 0 auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    
+
+}
+.nav-bar p{
+    font-size: 18px;
+    font-weight: 900;
+}
+ul{
+    
     
 }
 li{
-    padding-left: 80px;
-    padding-right: 100px ;
+    padding-left: 120px;
+    padding-right: 10px ;
     display: inline;
     font-size: 16px;
     font-weight: 700;
@@ -135,7 +144,9 @@ li{
 }
 li a{
     text-decoration: none;
-    color: black;
+    color:white;
+    
+    
 }
 
 
