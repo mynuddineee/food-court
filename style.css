@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    color: rgb(143, 140, 140);
+}
+.orange-word{
+    color: orange;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+section{
+    margin-bottom: 5%;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+}
+.half-width p{
+    font-size: 12px;
+    color:rgb(194, 190, 190);
+    padding-bottom: 5%;
+}
+.half-width img{
+    width: 60%;
+}
+.small-word{
+    color: gray;
+}
+.link-button{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: none;
+    background-image:linear-gradient(salmon, tomato);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.background-banner{
+    margin-top: 5%;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    background-image: url(images/frame.png);
+    background-repeat: no-repeat;
+    
+    
+}
+#about-me{
+    padding-top: 8%;
+    padding-right: 15%;
+    
+}
+#about-img{
+    padding-top: 5%;
+    padding-left: 15%;
+
+}
+#about-me p{
+    color: rgb(143, 140, 140);
+    padding-bottom: 15%;
+
+}
+
+.food-recipies{
+    text-align: justify;
+    width: 50%;
+    margin: auto;
+     
+}
+.food-recipies h2{
+    text-align: center;
+    
+}
+.food-recipies p{
+    font-size: 11px;
+    color: rgb(143, 140, 140);
+}
+.item-food{
+    display: flex;
+}
+.menu-img{
+    height: 33%;
+    width: 45%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom: 200px;
+    box-shadow: 30px 30px 20px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    text-align: justify;
+    
+    
+   
+
+}
